@@ -7,6 +7,9 @@ robotic simulation. The library is free for commercial use under the ZLib licens
 http://bulletphysics.org/wordpress/
 
 Installation:
+
 Download zip file
+
 Extract PKGBUILD
+
 run makepkg -si
